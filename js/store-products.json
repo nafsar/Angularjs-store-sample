@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Jade plants",
+    "description": "Commonly known as jade plant, friendship tree, lucky plant or Money Plant, Crassula ovata is a succulent plant with small pink or white flowers. It is native to South Africa, and is common as a houseplant worldwide. Blooms white or pink star like flowers in early spring.",
+    "size": "8x6\"",
+    "price": 36.50,
+    "review": 1,
+    "color": "Burgandy",
+    "stock": 14,
+    "images": [
+      "images/jade.jpg",
+      "images/jade1.jpg",
+      "images/jade2.jpg"
+    ],
+    "reviews": [
+      {
+        "stars": "5",
+        "body": "nice",
+        "author": "nnn@ndh.com"
+      }
+    ]
+  },
+  {
+    "name": "Beanie Hats",
+    "description": "the Kangol Super Reversible Beanie is two hats in one. One side combines a solid color beanie with a contrasting colored cuff. The other side is knitted in a 'web' like pattern, which adds an interesting graphic detail to this fall and winter beanie. ",
+    "size": "9\"",
+    "price": 52.90,
+    "review": 1,
+    "color": "Black, green, grey",
+    "stock": 12,
+    "images": [
+      "images/hat.jpg",
+      "images/hat1.jpg",
+      "images/hat2.jpg"
+    ],
+    "reviews": [
+      {
+        "stars": "3",
+        "body": "I love it but too expensive",
+        "author": "tom@yala.com"
+      }
+    ]
+  },
+  {
+    "name": "iKross",
+    "description": "Attach your smartphone, mp3 player, GPS, and other portable device to the air vent in your vehicle with the iKross Car Air Vent Mount Holder, an alternative to windshield and dash mounts. The adjustable swivel ball-head design allows you to get the perfect viewing angle, so the screen always stays secure directly in front of you.",
+    "size": "10x5\"",
+    "price": "46.90",
+    "review": 2,
+    "color": "Black",
+    "stock": 6,
+    "images": [
+      "images/ikross.jpg",
+      "images/ikross1.jpg",
+      "images/ikross2.jpg"
+    ],
+    "reviews": [
+      {
+        "stars": "4",
+        "body": "It is working great",
+        "author": "jim@ndh.com"
+      },
+      {
+        "stars": "2",
+        "body": "Not that simple to install",
+        "author": "Lory@pok.com"
+      }
+    ]
+  }
+]
